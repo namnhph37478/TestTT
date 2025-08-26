@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTT</string>
+
+    <string name="search">Search</string>
+    <string name="enter_keyword">Enter keyword</string>
+    <string name="clear">Clear</string>
+</resources>
